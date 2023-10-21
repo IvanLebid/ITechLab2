@@ -1,0 +1,39 @@
+div{
+    width: auto
+}
+.rightimg{
+    max-width: 30%;
+    height: auto;
+    float: right;
+    margin: 5px 0 5px 10px;
+}
+.leftimg{
+    max-width: 30%;
+    height: auto;
+    float: left;
+    margin: 5px 10px 5px 0;
+
+}
+h2{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 600;
+    /* style="text-align: center; font-size: 45px; font-weight: 600;" */
+}
+
+h3{
+    font-size: 30px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+    color:darkblue
+}
+span{
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 600;
+    
+}
+ol{
+    list-style-position: inside;
+    text-align: left;
+}
