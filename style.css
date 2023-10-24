@@ -79,12 +79,10 @@ ol#planExample{
     display: inline-flex;
     flex-direction: row;
      flex-wrap: wrap; 
-    /* margin: 20px; */
     margin-top: 20px;
     width: 750px;
     height: auto;
     align-content: center;
-    /* align-items: center; */
    justify-content: space-between;
 
 }
